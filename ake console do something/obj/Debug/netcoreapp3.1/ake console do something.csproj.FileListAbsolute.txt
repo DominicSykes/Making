@@ -1,0 +1,14 @@
+C:\Users\sykes\source\repos\ake console do something\bin\Debug\netcoreapp3.1\ake console do something.exe
+C:\Users\sykes\source\repos\ake console do something\bin\Debug\netcoreapp3.1\ake console do something.deps.json
+C:\Users\sykes\source\repos\ake console do something\bin\Debug\netcoreapp3.1\ake console do something.runtimeconfig.json
+C:\Users\sykes\source\repos\ake console do something\bin\Debug\netcoreapp3.1\ake console do something.runtimeconfig.dev.json
+C:\Users\sykes\source\repos\ake console do something\bin\Debug\netcoreapp3.1\ake console do something.dll
+C:\Users\sykes\source\repos\ake console do something\bin\Debug\netcoreapp3.1\ake console do something.pdb
+C:\Users\sykes\source\repos\ake console do something\obj\Debug\netcoreapp3.1\ake console do something.csproj.AssemblyReference.cache
+C:\Users\sykes\source\repos\ake console do something\obj\Debug\netcoreapp3.1\ake console do something.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sykes\source\repos\ake console do something\obj\Debug\netcoreapp3.1\ake console do something.AssemblyInfoInputs.cache
+C:\Users\sykes\source\repos\ake console do something\obj\Debug\netcoreapp3.1\ake console do something.AssemblyInfo.cs
+C:\Users\sykes\source\repos\ake console do something\obj\Debug\netcoreapp3.1\ake console do something.csproj.CoreCompileInputs.cache
+C:\Users\sykes\source\repos\ake console do something\obj\Debug\netcoreapp3.1\ake console do something.dll
+C:\Users\sykes\source\repos\ake console do something\obj\Debug\netcoreapp3.1\ake console do something.pdb
+C:\Users\sykes\source\repos\ake console do something\obj\Debug\netcoreapp3.1\ake console do something.genruntimeconfig.cache
